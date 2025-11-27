@@ -27,13 +27,13 @@ The application follows **MVC architecture** and uses **OOP principles** for a c
 ## Features
 ---
 
-### 🔐 Authentication
+###  Authentication
 - Admin login  
 - Hospital login  
 
 ---
 
-### 🧑‍⚕️ Hospital Features
+###  Hospital Features
 - Register donors  
 - Register recipients  
 - Update donor/recipient status  
@@ -41,7 +41,7 @@ The application follows **MVC architecture** and uses **OOP principles** for a c
 
 ---
 
-### 🧑‍💼 Admin Features
+###  Admin Features
 - Approve hospitals  
 - View all donors and recipients  
 - Match compatible donors and recipients  
@@ -50,12 +50,12 @@ The application follows **MVC architecture** and uses **OOP principles** for a c
 
 ---
 
-### 🔗 Matching System
+###  Matching System
 - Suggests compatible donor–recipient pairs based on organ type  
 
 ---
 
-### 💻 User Interface
+###  User Interface
 - Java Swing–based GUI  
 - Multiple screens for login, dashboards, forms, and lists  
 - Organized navigation using controllers  
