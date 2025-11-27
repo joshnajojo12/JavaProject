@@ -1,4 +1,4 @@
-# 🌿 Organ Donation System – Java Swing Desktop Application
+#  Organ Donation System – Java Swing Desktop Application
 
 ---
 
